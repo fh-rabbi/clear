@@ -10,3 +10,5 @@ $ git clone https://github.com/fh-rabbi/clear
 $ cd clear
 
 $ bash setup.sh
+
+:point_right:Then type p command and clear your termimal...
