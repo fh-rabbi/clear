@@ -1,4 +1,4 @@
-cd $HOME
+
 clear
 pkg install python -y
 mv p /data/data/com.termux/files/usr/bin
